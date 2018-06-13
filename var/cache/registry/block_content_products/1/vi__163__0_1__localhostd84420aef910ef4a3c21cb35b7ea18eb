@@ -1,4 +1,4 @@
-a:2:{s:4:"data";a:2:{s:10:"javascript";s:1966:"<script type="text/javascript" src="http://localhost/cscart/js/tygh/product_image_gallery.js?ver=4.7.4" ></script><script type="text/javascript" src="http://localhost/cscart/js/lib/owlcarousel/owl.carousel.min.js?ver=4.7.4" ></script><script type="text/javascript">
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:2017:"<script type="text/javascript" src="http://localhost/cscart/js/tygh/product_image_gallery.js?ver=4.7.4" ></script><script type="text/javascript" src="http://localhost/cscart/js/lib/owlcarousel/owl.carousel.min.js?ver=4.7.4" ></script><script type="text/javascript">
 (function(_, $) {
     $.ceEvent('on', 'ce.commoninit', function(context) {
         var elm = context.find('#scroll_list_23');
@@ -49,7 +49,7 @@ a:2:{s:4:"data";a:2:{s:10:"javascript";s:1966:"<script type="text/javascript" sr
         }
     });
 }(Tygh, Tygh.$));
-</script>";s:7:"content";s:13068:"    <div class="ty-mainbox-container clearfix homepage-hotdeals">
+</script>";s:7:"content";s:13488:"    <div class="ty-mainbox-container clearfix homepage-hotdeals">
                     
                 <h1 class="ty-mainbox-title">
                     
@@ -168,7 +168,7 @@ a:2:{s:4:"data";a:2:{s:10:"javascript";s:1966:"<script type="text/javascript" sr
                         
                                             </div>
 
-                                        <input type="hidden" name="security_hash" class="cm-no-hide-input" value="9e988f2c90adb12352644b7579792fab" /></form>
+                                        <input type="hidden" name="security_hash" class="cm-no-hide-input" value="aebd8f355b79e398107cfc3e90bb05fa" /></form>
 
                 </div>
                     </div>
@@ -274,7 +274,7 @@ a:2:{s:4:"data";a:2:{s:10:"javascript";s:1966:"<script type="text/javascript" sr
                         
                                             </div>
 
-                                        <input type="hidden" name="security_hash" class="cm-no-hide-input" value="9e988f2c90adb12352644b7579792fab" /></form>
+                                        <input type="hidden" name="security_hash" class="cm-no-hide-input" value="aebd8f355b79e398107cfc3e90bb05fa" /></form>
 
                 </div>
                     </div>
@@ -380,7 +380,7 @@ a:2:{s:4:"data";a:2:{s:10:"javascript";s:1966:"<script type="text/javascript" sr
                         
                                             </div>
 
-                                        <input type="hidden" name="security_hash" class="cm-no-hide-input" value="9e988f2c90adb12352644b7579792fab" /></form>
+                                        <input type="hidden" name="security_hash" class="cm-no-hide-input" value="aebd8f355b79e398107cfc3e90bb05fa" /></form>
 
                 </div>
                     </div>
@@ -486,7 +486,7 @@ a:2:{s:4:"data";a:2:{s:10:"javascript";s:1966:"<script type="text/javascript" sr
                         
                                             </div>
 
-                                        <input type="hidden" name="security_hash" class="cm-no-hide-input" value="9e988f2c90adb12352644b7579792fab" /></form>
+                                        <input type="hidden" name="security_hash" class="cm-no-hide-input" value="aebd8f355b79e398107cfc3e90bb05fa" /></form>
 
                 </div>
                     </div>
