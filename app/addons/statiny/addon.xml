@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>statiny</id>
+    <version>1.0</version>
+    <priority>1100</priority>
+    <position>180</position>
+    <status>active</status>
+    <default_language>en</default_language>
+    <auto_install>PROFESSIONAL,MULTIVENDOR,ULTIMATE</auto_install>
+    <settings edition_type="ROOT">
+        <sections>
+            <section id="general">
+                <items>
+                    <item id="statiny_api_key">
+                        <type>input</type>
+                        <default_value></default_value>
+                    </item>
+                </items>
+            </section>
+        </sections>
+    </settings>
+</addon>

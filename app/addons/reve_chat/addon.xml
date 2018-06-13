@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<addon scheme="2.0">
+    <id>reve_chat</id>
+    <name>REVE Chat</name>
+    <version>1.2</version>
+    <priority>700</priority>
+    <position>0</position>
+    <status>active</status>
+    <default_language>en</default_language>
+    <auto_install>MULTIVENDOR,ULTIMATE</auto_install>
+    <authors>
+        <author>
+            <name>REVE Chat</name>
+            <url>https://www.revechat.com/</url>
+        </author>
+    </authors>
+    <settings layout="separate">
+        <sections>
+            <section id="general">
+                <items>
+                    <item id="revechat_aid">
+                        <name>REVE Chat account ID</name>
+                        <type>input</type>
+                        <default_value>0</default_value>
+                    </item>
+                </items>
+            </section>
+        </sections>
+    </settings>
+    <language_variables>
+        <item lang="en" id="reve_chat">REVE Chat</item>
+        <item lang="en" id="already_have_a_reve_chat_account">Do you already have a REVE Chat account?</item>
+        <item lang="en" id="yes_already_have_reve_chat_account">Yes, I already have a REVE Chat account</item>
+        <item lang="en" id="no_reve_chat_account">No, I want to create one</item>
+        <item lang="en" id="reve_chat_account_details">Account Details</item>
+        <item lang="en" id="create_new_reve_chat_account">Create a new REVE Chat account</item>
+        <item lang="en" id="error_installing_reve_chat">There was an ERROR while installing REVE Chat.</item>
+        <item lang="en" id="reve_chat_email">REVE Chat login email</item>
+        <item lang="en" id="firstname">First Name</item>
+        <item lang="en" id="lastname">Last Name</item>
+        <item lang="en" id="reve_chat_installed">REVE Chat has been installed.</item>
+        <item lang="en" id="reve_chat_start_chatting_with_your_customer">Sign in to REVE Chat Dashboard and start
+            chatting with your customers.
+        </item>
+        <item lang="en" id="reve_chat_go_to_dashboard">Go to Dashboard</item>
+        <item lang="en" id="create_password">Password</item>
+        <item lang="en" id="retype_password">Confirm password</item>
+    </language_variables>
+    <queries>
+        <item for="install">DROP TABLE IF EXISTS ?:reve_chat_data;</item>
+        <item for="install">
+            CREATE TABLE `?:reve_chat_data` (
+            `id` tinyint(1) unsigned NOT NULL DEFAULT 0,
+            `aid` VARCHAR(20) NOT NULL DEFAULT '0',
+            PRIMARY KEY (`id`)
+            ) Engine=MyISAM DEFAULT CHARSET UTF8;
+        </item>
+        <item for="install">INSERT INTO `?:reve_chat_data` (`id`, `aid`) VALUES (1, '0');</item>
+        <item for="uninstall">DROP TABLE IF EXISTS ?:reve_chat_data;</item>
+    </queries>
+</addon>

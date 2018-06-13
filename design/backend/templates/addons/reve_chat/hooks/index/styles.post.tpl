@@ -1,0 +1,1 @@
+{style src="addons/reve_chat/styles.less"}
