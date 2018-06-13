@@ -1,4 +1,4 @@
-a:2:{s:4:"data";a:1:{s:7:"content";s:4945:"    <div class=" top-menu">
+a:2:{s:4:"data";a:1:{s:7:"content";s:5315:"    <div class=" top-menu">
         
 
 
@@ -78,6 +78,12 @@ a:2:{s:4:"data";a:1:{s:7:"content";s:4945:"    <div class=" top-menu">
                             </ul>
                         </div>
                     
+                            </li>
+                                            
+                        <li class="ty-menu__item ty-menu__item-nodrop ty-menu-item__sale">
+                                        <a  href="http://localhost/cscart/index.php?dispatch=products.on_sale" class="ty-menu__item-link">
+                        Sales
+                    </a>
                             </li>
         
         
