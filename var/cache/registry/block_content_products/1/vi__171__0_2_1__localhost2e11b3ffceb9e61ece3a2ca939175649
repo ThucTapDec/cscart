@@ -1,0 +1,179 @@
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:103:"<script type="text/javascript" src="http://localhost/cscart/js/tygh/exceptions.js?ver=4.7.4" ></script>";s:7:"content";s:6854:"    <div class="ty-mainbox-container clearfix homepage-on-sale">
+                    
+                <h1 class="ty-mainbox-title">
+                    
+                                            Giảm giá
+                                        
+
+                </h1>
+            
+
+                <div class="ty-mainbox-body">
+    
+
+    <!-- Inline script moved to the bottom of the page -->
+    
+
+    
+    
+            
+    
+    
+    
+    
+    
+
+                    <div class="grid-list">
+        <div class="ty-column4">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper"><form action="http://localhost/cscart/" method="post" name="product_form_24000288" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[288][product_id]" value="288" />
+<div class="ty-grid-list__image">
+
+
+        <a href="http://localhost/cscart/nhom-sn-phm/rau/bp-ci/">
+        <img class="ty-pict     cm-image"   src="http://localhost/cscart/images/thumbnails/150/150/detailed/1/bapcai.jpg" alt="" title=""  />
+
+    </a>
+
+            <span class="ty-discount-label cm-reload-24000288" id="discount_label_update_24000288">
+            <span class="ty-discount-label__item" id="line_prc_discount_value_24000288"><span class="ty-discount-label__value" id="prc_discount_value_label_24000288">Giảm 25%</span></span>
+        <!--discount_label_update_24000288--></span>
+    </div><div class="ty-grid-list__item-name"><bdi>
+            <a href="http://localhost/cscart/nhom-sn-phm/rau/bp-ci/" class="product-title" title="Bắp cải" >Bắp cải</a>    
+
+</bdi></div><div class="grid-list__rating">    
+    
+
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-24000288" id="old_price_update_24000288">
+            
+                            <span class="ty-list-price ty-nowrap" id="line_list_price_24000288"><span class="ty-strike"><bdi><span id="sec_list_price_24000288" class="ty-list-price ty-nowrap">20,000</span>&nbsp;<span class="ty-list-price ty-nowrap">VND</span></bdi></span></span>
+                        
+
+        <!--old_price_update_24000288--></span>
+        <span class="cm-reload-24000288 ty-price-update" id="price_update_24000288">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_24000288"><bdi><span id="sec_discounted_price_24000288" class="ty-price-num">15,000</span>&nbsp;<span class="ty-price-num">VND</span></bdi></span>
+                            
+
+                        <!--price_update_24000288--></span>
+        </div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                                        <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="288" data-ca-target-id="product_quick_view" href="http://localhost/cscart/index.php?dispatch=products.quick_view&amp;product_id=288&amp;prev_url=index.php&amp;n_plain=Y&amp;n_items=288%2C292" data-ca-dialog-title="Xem nhanh sản phẩm" rel="nofollow">Xem nhanh</a>
+</div></div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="aa8b76b7ab2ebc6e9790b25443c4425f" /></form>
+</div></div><div class="ty-column4">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper"><form action="http://localhost/cscart/" method="post" name="product_form_24000292" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[292][product_id]" value="292" />
+<div class="ty-grid-list__image">
+
+
+        <a href="http://localhost/cscart/nhom-sn-phm/trai-cay/tao/">
+        <img class="ty-pict     cm-image"   src="http://localhost/cscart/images/thumbnails/150/150/detailed/1/tao.jpg" alt="" title=""  />
+
+    </a>
+
+            <span class="ty-discount-label cm-reload-24000292" id="discount_label_update_24000292">
+            <span class="ty-discount-label__item" id="line_prc_discount_value_24000292"><span class="ty-discount-label__value" id="prc_discount_value_label_24000292">Giảm 13%</span></span>
+        <!--discount_label_update_24000292--></span>
+    </div><div class="ty-grid-list__item-name"><bdi>
+            <a href="http://localhost/cscart/nhom-sn-phm/trai-cay/tao/" class="product-title" title="Táo" >Táo</a>    
+
+</bdi></div><div class="grid-list__rating">    
+    
+
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-24000292" id="old_price_update_24000292">
+            
+                            <span class="ty-list-price ty-nowrap" id="line_list_price_24000292"><span class="ty-strike"><bdi><span id="sec_list_price_24000292" class="ty-list-price ty-nowrap">40,000</span>&nbsp;<span class="ty-list-price ty-nowrap">VND</span></bdi></span></span>
+                        
+
+        <!--old_price_update_24000292--></span>
+        <span class="cm-reload-24000292 ty-price-update" id="price_update_24000292">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_24000292"><bdi><span id="sec_discounted_price_24000292" class="ty-price-num">35,000</span>&nbsp;<span class="ty-price-num">VND</span></bdi></span>
+                            
+
+                        <!--price_update_24000292--></span>
+        </div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                                        <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="292" data-ca-target-id="product_quick_view" href="http://localhost/cscart/index.php?dispatch=products.quick_view&amp;product_id=292&amp;prev_url=index.php&amp;n_plain=Y&amp;n_items=288%2C292" data-ca-dialog-title="Xem nhanh sản phẩm" rel="nofollow">Xem nhanh</a>
+</div></div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="aa8b76b7ab2ebc6e9790b25443c4425f" /></form>
+</div></div><div class="ty-column4"></div><div class="ty-column4"></div>    </div>
+
+    
+
+</div>
+    </div>
+";}s:6:"expiry";i:0;}

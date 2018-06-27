@@ -38,11 +38,15 @@
                 <div class="ty-login__remember-me">
                     <label for="remember_me_{$id}" class="ty-login__remember-me-label"><input class="checkbox" type="checkbox" name="remember_me" id="remember_me_{$id}" value="Y" />{__("remember_me")}</label>
                 </div>
-            </div>
+            </div>         
         {/hook}
-    </form>
-{/capture}
+        
+        
 
+        
+    </form>
+    
+{/capture}
 {if $style == "popup"}
     {$smarty.capture.login nofilter}
 {else}

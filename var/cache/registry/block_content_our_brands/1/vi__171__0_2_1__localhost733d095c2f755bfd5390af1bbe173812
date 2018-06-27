@@ -1,0 +1,73 @@
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:1732:"<script type="text/javascript">
+(function(_, $) {
+    $.ceEvent('on', 'ce.commoninit', function(context) {
+        var elm = context.find('#scroll_list_27');
+
+        $('.ty-float-left:contains(.ty-scroller-list),.ty-float-right:contains(.ty-scroller-list)').css('width', '100%');
+
+        var item = 7,
+            // default setting of carousel
+            itemsDesktop = 4,
+            itemsDesktopSmall = 3;
+            itemsTablet = 2;
+
+        if (item > 3) {
+            itemsDesktop = item;
+            itemsDesktopSmall = item - 1;
+            itemsTablet = item - 2;
+        } else if (item == 1) {
+            itemsDesktop = itemsDesktopSmall = itemsTablet = 1;
+        } else {
+            itemsDesktop = item;
+            itemsDesktopSmall = itemsTablet = item - 1;
+        }
+
+        var desktop = [1199, itemsDesktop],
+            desktopSmall = [979, itemsDesktopSmall],
+            tablet = [768, itemsTablet],
+            mobile = [479, 1];
+
+        
+        if (elm.length) {
+            elm.owlCarousel({
+                direction: 'ltr',
+                items: item,
+                itemsDesktop: desktop,
+                itemsDesktopSmall: desktopSmall,
+                itemsTablet: tablet,
+                itemsMobile: mobile,
+                                scrollPerPage: true,
+                                                autoPlay: false,
+                                lazyLoad: true,
+                slideSpeed: 400,
+                stopOnHover: true,
+                                navigation: true,
+                navigationText: ['Trước', 'Tiếp theo'],
+                                pagination: false,
+                        });
+            
+        }
+    });
+}(Tygh, Tygh.$));
+</script>";s:7:"content";s:736:"    <div class="ty-mainbox-simple-container clearfix homepage-our-brands">
+                    <h2 class="ty-mainbox-simple-title">
+                
+                                    Nhà cung cấp
+                                
+
+            </h2>
+                <div class="ty-mainbox-simple-body">
+
+<div id="scroll_list_27" class="owl-carousel">
+                
+            <div class="ty-center">
+                <a href="http://localhost/cscart/rau-vi/"><img class="ty-pict  ty-grayscale lazyOwl  cm-image"   data-src="http://localhost/cscart/images/thumbnails/75/75/feature_variant/1/icon.png" alt="" title=""  />
+</a>
+            </div>
+    </div>
+
+<!-- Inline script moved to the bottom of the page -->
+
+</div>
+    </div>
+";}s:6:"expiry";i:0;}

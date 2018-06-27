@@ -1,9 +1,9 @@
 
         <!-- Bootstrap core CSS -->
-        <link href="assets/bootstrap.min.css" rel="stylesheet"/>
+        <link href="/payments/assets/bootstrap.min.css" rel="stylesheet"/>
         <!-- Custom styles for this template -->
-        <link href="assets/jumbotron-narrow.css" rel="stylesheet">  
-        <script src="assets/jquery-1.11.3.min.js"></script>
+        <link href="/payments/assets/jumbotron-narrow.css" rel="stylesheet">  
+        <script src="/payments/assets/jquery-1.11.3.min.js"></script>
     </head>
 
     <body>
@@ -27,7 +27,7 @@
                     </div>
                     <div class="form-group">
                         <label for="order_id">Mã hóa đơn</label>
-                        <input class="form-control" id="order_id" name="order_id" type="text" value="<?php echo date("YmdHis") ?>"/>
+                        <input class="form-control" id="order_id" name="ordr_eid" type="text" value="<?php echo date("YmdHis") ?>"/>
                     </div>
                     <div class="form-group">
                         <label for="amount">Số tiền</label>

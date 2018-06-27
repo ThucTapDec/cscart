@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2018-06-12 16:17:01
+<?php /* Smarty version Smarty-3.1.21, created on 2018-06-14 17:22:01
          compiled from "C:\xampp\htdocs\cscart\design\themes\responsive\templates\views\orders\components\payments\vnpay.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:8435947745b1f8f8d8a1b52-65200112%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:659607655b2241c9751f60-25999341%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '06a133984bbedfde399c94a1bec3765eac52564c' => 
     array (
       0 => 'C:\\xampp\\htdocs\\cscart\\design\\themes\\responsive\\templates\\views\\orders\\components\\payments\\vnpay.tpl',
-      1 => 1528795015,
+      1 => 1528971718,
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '8435947745b1f8f8d8a1b52-65200112',
+  'nocache_hash' => '659607655b2241c9751f60-25999341',
   'function' => 
   array (
   ),
@@ -22,17 +22,17 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_5b1f8f8da8b185_56907618',
+  'unifunc' => 'content_5b2241c9804b84_62131265',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5b1f8f8da8b185_56907618')) {function content_5b1f8f8da8b185_56907618($_smarty_tpl) {?><?php if (!is_callable('smarty_function_set_id')) include 'C:/xampp/htdocs/cscart/app/functions/smarty_plugins\\function.set_id.php';
+<?php if ($_valid && !is_callable('content_5b2241c9804b84_62131265')) {function content_5b2241c9804b84_62131265($_smarty_tpl) {?><?php if (!is_callable('smarty_function_set_id')) include 'C:/xampp/htdocs/cscart/app/functions/smarty_plugins\\function.set_id.php';
 ?><?php if ($_smarty_tpl->tpl_vars['runtime']->value['customization_mode']['design']=="Y"&&@constant('AREA')=="C") {
 $_smarty_tpl->_capture_stack[0][] = array("template_content", null, null); ob_start(); ?>
         <!-- Bootstrap core CSS -->
-        <link href="/vnpay_php/assets/bootstrap.min.css" rel="stylesheet"/>
+        <link href="/payments/assets/bootstrap.min.css" rel="stylesheet"/>
         <!-- Custom styles for this template -->
-        <link href="/vnpay_php/assets/jumbotron-narrow.css" rel="stylesheet">  
+        <link href="/payments/assets/jumbotron-narrow.css" rel="stylesheet">  
         <?php echo '<script'; ?>
- src="/vnpay_php/assets/jquery-1.11.3.min.js"><?php echo '</script'; ?>
+ src="/payments/assets/jquery-1.11.3.min.js"><?php echo '</script'; ?>
 >
     </head>
 
@@ -162,11 +162,11 @@ echo Smarty::$_smarty_vars['capture']['template_content'];
 }
 } else { ?>
         <!-- Bootstrap core CSS -->
-        <link href="/vnpay_php/assets/bootstrap.min.css" rel="stylesheet"/>
+        <link href="/payments/assets/bootstrap.min.css" rel="stylesheet"/>
         <!-- Custom styles for this template -->
-        <link href="/vnpay_php/assets/jumbotron-narrow.css" rel="stylesheet">  
+        <link href="/payments/assets/jumbotron-narrow.css" rel="stylesheet">  
         <?php echo '<script'; ?>
- src="/vnpay_php/assets/jquery-1.11.3.min.js"><?php echo '</script'; ?>
+ src="/payments/assets/jquery-1.11.3.min.js"><?php echo '</script'; ?>
 >
     </head>
 

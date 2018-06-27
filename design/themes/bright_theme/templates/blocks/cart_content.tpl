@@ -79,4 +79,5 @@
             {/hook}
         </div>
     <!--cart_status_{$dropdown_id}--></div>
+    
 {/hook}

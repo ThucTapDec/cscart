@@ -16,6 +16,7 @@
                        class="ty-login__input cm-focus"
                 />
             </div>
+            
             <div class="buttons-container login-recovery">
                 {include file="buttons/reset_password.tpl"
                          but_name="dispatch[auth.recover_password]"
@@ -38,5 +39,7 @@
             </div>
         {/if}
     </form>
+    
 </div>
+
 {capture name="mainbox_title"}{__("recover_password")}{/capture}
